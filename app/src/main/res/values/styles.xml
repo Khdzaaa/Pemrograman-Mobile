@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.PemobUTS" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:textColorPrimary">@color/blackColor</item>
+        <item name="android:textColorSecondary">@color/whiteColor</item>
+        <item name="android:colorBackground">@color/color1</item>
+    </style>
+</resources>
